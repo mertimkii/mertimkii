@@ -1,4 +1,4 @@
-# Selamlar, Ben [Mert/Mertimki]! 👋 🚀
+# Selamlar, Ben Mert/Mertimki! 👋 🚀
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Python%20Developer%20&fontSize=50&animation=fadeIn" />
