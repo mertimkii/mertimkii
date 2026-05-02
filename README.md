@@ -1,6 +1,6 @@
 # Selam, ben Mert! 👋
 
-Freelance Software Developer olarak modern web teknolojileri ve otomasyon sistemleri üzerine çalışıyorum. Sade, işlevsel ve kullanıcı odaklı projeler geliştirmeyi seviyorum.
+Freelance Software Developer olarak modern web teknolojileri üzerine çalışıyorum. Sade, işlevsel ve kullanıcı odaklı projeler geliştirmeyi seviyorum.
 
 ### 🛠 Teknolojiler & Araçlar
 
