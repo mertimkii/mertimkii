@@ -23,6 +23,3 @@ Freelance Software Developer olarak modern web teknolojileri üzerine çalışı
 </p>
 
 ---
-
-### 📫 Bana Ulaşın
-[LinkedIn](LİNKİN) | [Discord](LİNKİN) | [Web Siten](LİNKİN)
