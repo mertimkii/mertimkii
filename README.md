@@ -18,8 +18,8 @@ Freelance Software Developer olarak modern web teknolojileri üzerine çalışı
 ### 📈 İstatistiklerim
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=dracula&bg_color=1a1a1a&title_color=bd93f9&icon_color=ff79c6" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=dracula&bg_color=1a1a1a&title_color=bd93f9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mertimkii&show_icons=true&theme=dracula&bg_color=1a1a1a&title_color=bd93f9&icon_color=ff79c6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertimkii&layout=compact&theme=dracula&bg_color=1a1a1a&title_color=bd93f9" />
 </p>
 
 ---
