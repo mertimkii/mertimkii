@@ -18,9 +18,6 @@
 
 ---
 
-### 🌌 Hakkımda
-Guns.lol profilimde de belirttiğim gibi, modern web teknolojileri ve otomasyon sistemleri üzerine projeler geliştiriyorum. Karmaşıklıktan uzak, sade ve kullanıcı dostu arayüzler tasarlamaya odaklanıyorum.
-
 ### 🛠️ Yetkinlikler
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,nodejs,js,py,html,discordjs&theme=dark" />
